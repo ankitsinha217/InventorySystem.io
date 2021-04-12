@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/InventorySystem.io/static/css/main.c342338d.chunk.css",
+    "main.js": "/InventorySystem.io/static/js/main.23d4903c.chunk.js",
+    "main.js.map": "/InventorySystem.io/static/js/main.23d4903c.chunk.js.map",
+    "runtime-main.js": "/InventorySystem.io/static/js/runtime-main.a18ac20f.js",
+    "runtime-main.js.map": "/InventorySystem.io/static/js/runtime-main.a18ac20f.js.map",
+    "static/css/2.150d169a.chunk.css": "/InventorySystem.io/static/css/2.150d169a.chunk.css",
+    "static/js/2.8f48c905.chunk.js": "/InventorySystem.io/static/js/2.8f48c905.chunk.js",
+    "static/js/2.8f48c905.chunk.js.map": "/InventorySystem.io/static/js/2.8f48c905.chunk.js.map",
+    "static/js/3.df4ccfc4.chunk.js": "/InventorySystem.io/static/js/3.df4ccfc4.chunk.js",
+    "static/js/3.df4ccfc4.chunk.js.map": "/InventorySystem.io/static/js/3.df4ccfc4.chunk.js.map",
+    "index.html": "/InventorySystem.io/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/InventorySystem.io/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c342338d.chunk.css.map": "/InventorySystem.io/static/css/main.c342338d.chunk.css.map",
+    "static/js/2.8f48c905.chunk.js.LICENSE.txt": "/InventorySystem.io/static/js/2.8f48c905.chunk.js.LICENSE.txt",
+    "static/media/back3.ffc33221.jpg": "/InventorySystem.io/static/media/back3.ffc33221.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a18ac20f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.8f48c905.chunk.js",
+    "static/css/main.c342338d.chunk.css",
+    "static/js/main.23d4903c.chunk.js"
+  ]
+}
